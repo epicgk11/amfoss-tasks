@@ -1,0 +1,1 @@
+So in task 13 i was able to make the hardware circuit even after a lot of efforts 
