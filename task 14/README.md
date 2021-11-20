@@ -1,0 +1,1 @@
+So i did this task by looking for all the commands mentioned in bandit overthewire website and i searched in google the properties of the commands and how it is used

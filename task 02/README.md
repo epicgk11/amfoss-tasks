@@ -1,0 +1,1 @@
+So for this task i looked all the different bash commands given in the resources provided by amfoss in the task list and i applied it in the task

@@ -1,0 +1,1 @@
+Maths was my favorite subject in my high school. I tried my level best to solve the problems in project Euler with the help of python language 
